@@ -1,0 +1,349 @@
+body{
+    color: white;
+    background-color: rgba(36, 149, 214, 0.842);
+}
+
+header{
+    background-color: rgba(36, 149, 214, 0.842);
+    width: 100%;
+    padding: 0%;
+    text-align: left;
+   
+}
+header ul li{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+header ul li.abra{
+  width: 550px;
+    text-align: right;
+}
+header ul li.faca{
+    background-color: rgba(216, 145, 12, 0.993);
+    
+}
+
+img.imglogo{
+    width: 120px;
+    height: 30px;
+    margin-left: 80px;
+}
+div{
+    display: inline-block;
+    padding: 0%;
+    text-align: left;
+    
+}
+div#menu{
+    background-color: rgb(63, 177, 243);
+    width: 100%;
+    height: 70px;
+   align-items: center;
+}
+div.itens{
+   font-size: 18px;
+   text-align: center;
+    
+   width: 140px;
+   
+   display: inline-block;
+    
+}
+div.itens:hover{
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    text-decoration: none;
+    color: rgb(63, 177, 243);
+    text-align: center;
+    
+}
+div#busca{
+    font-size: 24px;
+    width: 380px;
+    text-align: right;
+    
+}
+img.lupa{
+ width: 20px;
+ height: 20px;
+}
+div#acessar{
+    width: 200px;
+    text-align: right;
+    font-size: 18px;
+}
+img.imgcadeado{
+    width: 20px;
+    height: 20px;
+}
+img.sliderimg{
+    width: 1335px;
+    height: 500px;
+    margin-top: 30px;
+}
+div#atencao{
+    background-color: orange;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+div#corpo{
+    background-color: white;
+    width: 100%;
+    height: 900px;
+    color: black;
+}
+p.azul{
+    color: rgb(152, 176, 240);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 400px;
+    margin-left: 100px ;
+    margin-top: -30px;
+}
+p#nossos{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+img.pessoas{
+    width: 250px;
+    height: 300px;
+    margin-left: 60px;
+}
+nav p{
+    display: inline-block;
+    margin-left: 60px;
+    width: 250px;
+    margin-top: -1px;
+}
+p.pnav{
+    color: rgb(152, 176, 240);;
+    font-size: 32px;
+}
+nav button{
+    background-color: orange;
+    margin-left: 60px;
+    width: 250px;
+    height: 50px;
+    color: white;
+    border: white;
+    margin-top: 10px;
+    
+}
+div#corpo2{
+    background-color: rgb(247, 250, 252);
+    width: 100%;
+    height: 580px;
+}
+p#pPontos{
+    margin-left: 110px;
+    color: rgb(90, 90, 90);
+    margin-top: 100px;
+}
+p#pmil{
+ margin-left: 110px;
+ color: rgb(73, 153, 245);;
+ font-size: 52px;
+ width: 450px;
+
+}
+input#CEP{
+    width: 440px;
+    height: 45px;
+    margin-left: 770px;
+    margin-top: -150px;
+    color: gray;
+    
+}
+button#end{
+    margin-left: 780px;
+    height: 50px;
+    width: 200px;
+    margin-top: 25px;
+    color: gray;
+}
+button#pesquisar{
+    height: 50px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 25px;
+    color: white;
+    background-color: orange;
+    border: white;
+}
+p#informe{
+    color: black;
+    size: 40px;
+    width: 300px;
+    margin-top: -150px;
+    margin-left: 110px;
+}
+div#maior{
+    display: inline-block;
+    
+    height: 400px;
+    width: 100%;
+}
+div#corpo3{
+    width: 100%;
+    height: 382px;
+    background-color: rgb(55, 139, 218);
+    width: 950px;
+    position: absolute;
+}
+div#divimg{
+    width: 380px;
+    
+}
+div#corpo3 p{
+    margin-left: 120px;
+    margin-top: 100px;
+    font-size: 20px;
+}
+div#corpo3 p#agende{
+    font-size: 43px;
+    margin-top: 10px;
+    width: 700px;
+    margin-right: 40px;
+}
+div#corpo3 p#tenha{
+    margin-top: 5px;
+}
+div#corpo3 p#agende input#nome{
+    height: 35px;
+    margin-left: 120px;
+    margin-right: 10px;
+}
+div#corpo3 p#agende input#tel{
+    height: 35px;
+    margin-left: 10px;
+   
+}
+div#corpo3 p#agende input#email{
+    height: 35px;
+    margin-left: 68px;
+    width: 377px;
+    margin-bottom: 0px;
+   
+}
+div#corpo3 p#tenha button{
+    height: 40px;
+    margin-left: 120px;
+    width: 300px;
+    margin-top: -24px;
+    background-color: rgb(55, 139, 218);
+    color: white;
+    
+}
+div#corpo4{
+    width: 100%;
+    height: 350px;
+    background-color: white;
+    color: black;
+}
+img#img_um{
+    margin-left: 350px;
+    
+}
+img.imgoutras{
+    margin-left: 30px;
+}
+p#no{
+    margin-left: 140px;
+    margin-top: 30px;
+    color: gray;
+}
+p#exp{
+    color: rgb(98, 191, 253);
+    font-size: 40px;
+    margin-left: 140px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+p#acre{
+    margin-left: 140px;
+    margin-top: -70px;
+}
+img#cel{
+    margin-left: 1000px;
+    margin-top: -250px;
+    width: 180px;
+}
+div#corpo5{
+    background-color: rgb(55, 139, 218);
+    width: 100%;
+    height: 580px;
+    margin-top: 0px;
+    
+}
+img#l1{
+    margin-left: 100px;
+
+}
+img#l3{
+    margin-left: 100px;
+
+}
+nav#redes{
+    margin-left: 720px;
+    margin-top: -400px;
+}
+p#siga{
+    font-size: 50px;
+    width: 400px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img.icons{
+    margin-left: 10px;
+}
+img#face{
+    margin-left: 45px;
+}
+div#corpo6{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    color: black;
+}
+
+p#txt1{
+ width: 150px;
+ line-height: 40px;
+ margin-left: 60px;
+ 
+}
+p#txt2{
+    width: 150px;
+    margin-left: 280px;
+    margin-top: -415px;
+    line-height: 40px;
+}
+p#txt3{
+    width: 150px;
+    margin-left: 500px;
+    margin-top: -300px;
+    line-height: 40px;
+}
+p#txt4{
+    width: 150px;
+    margin-left: 750px;
+    margin-top: -260px;
+    line-height: 40px;
+}
+p#txt5{
+    width: 150px;
+    margin-left: 1000px;
+    margin-top: -250px;
+    line-height: 40px;
+}
+footer{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(23, 129, 199);
+    margin-top: 450px;
+    text-align: center;
+    padding-top: 25px;
+}
